@@ -3,7 +3,7 @@ import * as fs from "fs"
 import dotenv from "dotenv"
 dotenv.config()
 
-const wallet = new Wallet(process.env.MNEMONIC)
+const wallet = new Wallet("desk pigeon hammer sleep only mistake stool december offer patrol once vacant")
 
 const contract_wasm = fs.readFileSync("../contract.wasm.gz")
 

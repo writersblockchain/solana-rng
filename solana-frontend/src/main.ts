@@ -20,7 +20,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       GitHub
     </div>
     </a>
-    <a href="https://docs.scrt.network/secret-network-documentation/development/ethereum-evm-developer-toolkit/connecting-evm-with-snakepath" target="_blank">
+    <a href="https://docs.scrt.network/secret-network-documentation/confidential-computing-layer/solana-developer-toolkit" target="_blank">
     <div class="card">
       Docs
     </div>

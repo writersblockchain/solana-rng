@@ -15,3 +15,4 @@ pub struct Input {
     // Number of Words to generate
     pub numWords: u64
 }
+

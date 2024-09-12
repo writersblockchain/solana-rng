@@ -22,7 +22,7 @@ export function setupSubmit(element: HTMLButtonElement) {
   const gatewayPublicKey = "AvDD5gDH97PEg96+j5ioOcLZMjDY+Fezwpjch2PCCK/N";
   const gatewayPublicKeyBytes = base64_to_bytes(gatewayPublicKey);
 
-  const routing_contract = "secret1mxqfuvavqm3a30senyhm6x9lsw8mflfrpp33fa"; //the contract you want to call in secret
+  const routing_contract = "secret1fsjr3y4q6qgqhsdxqtjhmxgampyydt5n2mt66u"; //the contract you want to call in secret
   const routing_code_hash =
     "a694c84b63d88bb3e71121e631d4d7065ee79d7c8f8adf52906b68e568c6d6a3"; //its codehash
 
